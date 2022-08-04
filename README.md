@@ -5,4 +5,15 @@ Configuration files and guides for using software and operating systems with Unc
 See the guide [here](firefox.md).
 
 ## pfSense
-Please see https://docs.netgate.com/pfsense/en/latest/recipes/dns-over-tls.html 
+
+Links to docs and image guide found [here](./pfsense.md)
+
+
+## OPNsense
+
+Links to docs and image guide found [here](./opnsense.md)
+
+## iOS
+
+Links to installation profiles and manual setup guide with images foud [here](./ios.md)
+
