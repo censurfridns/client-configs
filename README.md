@@ -17,3 +17,7 @@ Links to docs and image guide found [here](./opnsense.md)
 
 Links to installation profiles and manual setup guide with images foud [here](./ios.md)
 
+
+## dnscrypt and dnsmasq
+
+Links to docs and image guide found [here](./dnscrypt-proxy-and-dnsmasq.md)
