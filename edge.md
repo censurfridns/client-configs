@@ -10,6 +10,5 @@
 4. Switch on "_**Use secure DNS to specify how to lookup the network address for websites**_".
 5. Choose "_**Choose a service provider**_".
 6. In the text field under "_Choose a service provider_", enter ´anycast.censurfridns.dk´
-7. Click on the gray background surrounding the options page.
+7. Click on the gray background surrounding the options page, so that the text field is not selected, then restart edge.
 ![Enable DNS Over HTTPS, select custom provider and enter URL](screenshots/edge_4.png?raw=true "Enable DNS Over HTTPS, select custom provider and enter URL")
-8. Click "**_OK_**" and restart Edge
