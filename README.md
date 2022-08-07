@@ -7,6 +7,9 @@ See the guide [here](edge.md).
 ## Firefox
 See the guide [here](firefox.md).
 
+## systemd-resolved
+See the guide [here](systemd-resolved.md)
+
 ## pfSense
 
 Links to docs and image guide found [here](./pfsense.md)
