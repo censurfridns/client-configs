@@ -9,7 +9,7 @@ Download one of the following two configuration profiles. (Needs to be with the 
 > iOS 14 required!
 
 - [DNS over HTTPS](https://encrypted-dns.party/mobileconfig/uncensored-dns-anycast-doh.mobileconfig)
-- [DNS over TLS](https://encrypted-dns.party/mobileconfig/uncensored-dns-anycast-doh.mobileconfig)
+- [DNS over TLS](https://encrypted-dns.party/mobileconfig/uncensored-dns-anycast-dot.mobileconfig)
 
 > Note! For further instructions see: https://gitlab.com/nitrohorse/ios14-encrypted-dns-mobileconfigs
 
