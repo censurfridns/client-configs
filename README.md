@@ -14,6 +14,9 @@ See the guide [here](systemd-resolved.md)
 
 Links to docs and image guide found [here](./pfsense.md)
 
+## OpenWrt
+
+See the guide [here](openwrt.md)
 
 ## OPNsense
 
